@@ -9,6 +9,6 @@ O EvenTast é um sistema de gestão especializado em eventos culturais gastronô
 ## Diagrama de Sequência do Sistema e Contrato de Operações
 
 ## 👋 Alunos
-Eduarda Silva Santos Nunes
-Giovanna Ferreira dos Santos de Almeida
-Miguel Amaral Lessa Xavier
+Eduarda Silva Santos Nunes  
+Giovanna Ferreira dos Santos de Almeida  
+Miguel Amaral Lessa Xavier  
