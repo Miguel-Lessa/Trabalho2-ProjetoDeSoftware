@@ -1,6 +1,6 @@
-# 🍰 EvenTast
+# 🍰 EvenTaste
 
-O EvenTast é um sistema de gestão especializado em eventos culturais gastronômicos, projetado para facilitar a organização, promoção e participação em festivais gastronômicos, workshops culinários, degustações e outros eventos relacionados à cultura alimentar. O sistema visa conectar organizadores, participantes, chefs e estabelecimentos gastronômicos em uma plataforma integrada.
+O EvenTaste é um sistema de gestão especializado em eventos culturais gastronômicos, projetado para facilitar a organização, promoção e participação em festivais gastronômicos, workshops culinários, degustações e outros eventos relacionados à cultura alimentar. O sistema visa conectar organizadores, participantes, chefs e estabelecimentos gastronômicos em uma plataforma integrada.
 
 ## Atores
 | **Ator**            | **Descrição**                                                                                                                                    |
@@ -24,7 +24,7 @@ O EvenTast é um sistema de gestão especializado em eventos culturais gastronô
 | UC-07  | Visualizar eventos               | Todos              |
 | UC-08  | Gerenciar usuários e permissões  | Administrador      |
 | UC-09  | Emitir certificado               | Participante       |
-
+![Diagrama de Sequência](https://github.com/Miguel-Lessa/Trabalho2-ProjetoDeSoftware/blob/master/Diagramas/UCD.png)
 
 ## Diagrama de Sequência do Sistema 
 Diagrama de Cadastrar Evento, Inscrever Participante e Convidar Chefe.
