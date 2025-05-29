@@ -26,7 +26,9 @@ O EvenTast é um sistema de gestão especializado em eventos culturais gastronô
 | UC-09  | Emitir certificado               | Participante       |
 
 
-## Diagrama de Sequência do Sistema e Contrato de Operações
+## Diagrama de Sequência do Sistema 
+Diagrama de Cadastrar Evento, Inscrever Participante e Convidar Chefe.
+![Diagrama de Sequência](https://github.com/Miguel-Lessa/Trabalho2-ProjetoDeSoftware/blob/master/Diagramas/diagramadesequencia.png)
 
 ## 👋 Alunos
 Eduarda Silva Santos Nunes  
