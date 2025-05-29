@@ -24,6 +24,7 @@ O EvenTaste é um sistema de gestão especializado em eventos culturais gastron�
 | UC-07  | Visualizar eventos               | Todos              |
 | UC-08  | Gerenciar usuários e permissões  | Administrador      |
 | UC-09  | Emitir certificado               | Participante       |
+
 ![Diagrama de Sequência](https://github.com/Miguel-Lessa/Trabalho2-ProjetoDeSoftware/blob/master/Diagramas/UCD.png)
 
 ## Diagrama de Sequência do Sistema 
