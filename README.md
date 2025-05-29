@@ -13,6 +13,18 @@ O EvenTast é um sistema de gestão especializado em eventos culturais gastronô
 
 
 ## Casos de Uso
+| **ID** | **Nome do Caso de Uso**          | **Ator Principal** |
+| ------ | -------------------------------- | ------------------ |
+| UC-01  | Cadastrar evento                 | Organizador        |
+| UC-02  | Inscrever-se em evento           | Participante       |
+| UC-03  | Avaliar evento                   | Participante       |
+| UC-04  | Convidar Chef                    | Organizador        |
+| UC-05  | Confirmar participação como Chef | Chef               |
+| UC-06  | Cadastrar estabelecimento        | Estabelecimento    |
+| UC-07  | Visualizar eventos               | Todos              |
+| UC-08  | Gerenciar usuários e permissões  | Administrador      |
+| UC-09  | Emitir certificado               | Participante       |
+
 
 ## Diagrama de Sequência do Sistema e Contrato de Operações
 
